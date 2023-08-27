@@ -1,0 +1,3 @@
+comida;1;Picanha executiva;47.90;null;300.0;false;Picanha bovina, Arroz, batata
+bebida;1;Refrigente laranja;5.00; null; true;500.00;Fanta
+sobremesa;1;bolo de chocolate;6.00;null;1.0;true;bolo de chocolate com cobertura

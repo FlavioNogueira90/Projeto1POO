@@ -1,0 +1,4 @@
+Comida [nome=Picanha executiva, preco=47.9,peso=300.0, vegano=false, ingredientes=Picanha bovina, Arroz, batata]
+Bebida [nome=Refrigente laranja, preco=5.0, gelada=false, tamanho=500.0, marca=Fanta]
+Sobremesa [nome=bolo de chocolate, preco=6.0,quantidade=1.0, doce=false, informacao=bolo de chocolate com cobertura]
+Valor Total R$ 58,90
